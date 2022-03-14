@@ -1,8 +1,9 @@
+//세 정수의 최댓값 구하기
 package chap01;
 
 import java.util.Scanner;
 
-public class Max3 {
+public class A1 {
 	public static void main(String[] args) {
 		Scanner scanner=new Scanner(System.in);
 		
