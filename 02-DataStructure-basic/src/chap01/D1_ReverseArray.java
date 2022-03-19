@@ -3,7 +3,7 @@ package chap01;
 
 import java.util.Scanner;
 
-public class D_ReverseArray {
+public class D1_ReverseArray {
 	static void swap(int a[], int idx1, int idx2) {
 		int t = a[idx1]; a[idx1]=a[idx2]; a[idx2]=t;
 	}
